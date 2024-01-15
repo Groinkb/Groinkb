@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Groinkb
-- 👀 I’m interested in : Web Development, Machine learning
+- 👀 I’m interested in : Web Development-FullStack
 - 🌱 I’m currently learning at Holberton-School.
 - 📫 How to reach me : My Linkedin : https://www.linkedin.com/in/benjamin-marchald-dev
 <!---
